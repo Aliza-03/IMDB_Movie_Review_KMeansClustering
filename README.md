@@ -18,7 +18,7 @@ The goal of this assignment is to:
 1. **Cluster movie reviews based on ratings** using K-means clustering.
 2. **Analyze whether movies within the same rating clusters belong to similar genres.**
 3. **Evaluate** the clustering results using a confusion matrix.
-4. **Visualize the clusters** using 2D and 3D scatter plots.
+4. **Visualize the clusters** using 2D  plots.
 
 ### Rating Clusters
 
